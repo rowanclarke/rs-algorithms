@@ -1,2 +1,2 @@
-# rs-data-structures
+# rs-algorithms
 
